@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information related to applications of derivatives.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-18-001-calculus-online-textbook-spring-2005/15c98f2ab2802fbf72049781daba464e_MITRES_18_001_strang_3134.pdf
+file: /media/courses/res-18-001-calculus-online-textbook-spring-2005/15c98f2ab2802fbf72049781daba464e_MITRES_18_001_strang_3134.pdf
 file_type: application/pdf
+learning_resource_types:
+- Online Textbooks
+ocw_type: OCWFile
+parent_title: Textbook
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: MITRES_18_001_strang_3134.pdf
 uid: 15c98f2a-b280-2fbf-7204-9781daba464e

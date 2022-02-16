@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information related to integrals.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-18-001-calculus-online-textbook-spring-2005/8befcfcdaecae64f77cdd83ef8bbfdab_MITRES_18_001_strang_5.pdf
+file: /media/courses/res-18-001-calculus-online-textbook-spring-2005/8befcfcdaecae64f77cdd83ef8bbfdab_MITRES_18_001_strang_5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Online Textbooks
+ocw_type: OCWFile
+parent_title: Textbook
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: MITRES_18_001_strang_5.pdf
 uid: 8befcfcd-aeca-e64f-77cd-d83ef8bbfdab

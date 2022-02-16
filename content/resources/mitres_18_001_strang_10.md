@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information related to infinite series.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-18-001-calculus-online-textbook-spring-2005/1cec3273eb6397e7d958d285d29771cd_MITRES_18_001_strang_10.pdf
+file: /media/courses/res-18-001-calculus-online-textbook-spring-2005/1cec3273eb6397e7d958d285d29771cd_MITRES_18_001_strang_10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Online Textbooks
+ocw_type: OCWFile
+parent_title: Textbook
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: MITRES_18_001_strang_10.pdf
 uid: 1cec3273-eb63-97e7-d958-d285d29771cd

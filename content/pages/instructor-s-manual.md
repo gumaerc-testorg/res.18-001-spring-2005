@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Instructor's Manual
 uid: 17e76762-f3ba-c840-0d43-13aeb75d9620
 ---

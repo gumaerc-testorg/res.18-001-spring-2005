@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Study Guide
 uid: 4bf319e5-0f57-233b-aa55-3b126d0c8c6a
 ---

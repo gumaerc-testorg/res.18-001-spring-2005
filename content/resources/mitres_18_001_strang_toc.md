@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information related to table of contents.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-18-001-calculus-online-textbook-spring-2005/5b0d16d033299c3fa60366d374c4edab_MITRES_18_001_strang_toc.pdf
+file: /media/courses/res-18-001-calculus-online-textbook-spring-2005/5b0d16d033299c3fa60366d374c4edab_MITRES_18_001_strang_toc.pdf
 file_type: application/pdf
+learning_resource_types:
+- Online Textbooks
+ocw_type: OCWFile
+parent_title: Textbook
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: MITRES_18_001_strang_toc.pdf
 uid: 5b0d16d0-3329-9c3f-a603-66d374c4edab

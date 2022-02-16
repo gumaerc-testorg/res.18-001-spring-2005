@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-18-001-calculus-online-textbook-spring-2005/ba1278f8d11c69c59ad4d72b31babb9d_DERIVE_Information.pdf
+file: /media/courses/res-18-001-calculus-online-textbook-spring-2005/ba1278f8d11c69c59ad4d72b31babb9d_DERIVE_Information.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Instructor's Manual
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: DERIVE_Information.pdf
 uid: ba1278f8-d11c-69c5-9ad4-d72b31babb9d
