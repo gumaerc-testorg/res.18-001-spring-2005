@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Instructor's Manual
 parent_type: SupplementalResourceSection
+parent_uid: 17e76762-f3ba-c840-0d43-13aeb75d9620
 resourcetype: Document
 title: MITRES_18_001_manual10.pdf
 uid: f2278e01-a9f2-c0c6-4fc9-8cede8707871

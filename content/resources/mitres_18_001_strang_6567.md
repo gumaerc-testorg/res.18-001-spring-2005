@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
+parent_uid: 2842add0-8d1e-680b-3318-d7f7f69d7739
 resourcetype: Document
 title: MITRES_18_001_strang_6567.pdf
 uid: 9d604ced-dba2-6cd6-d16c-591319b9dedf

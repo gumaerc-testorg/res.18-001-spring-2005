@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Guide
 parent_type: SupplementalResourceSection
+parent_uid: 4bf319e5-0f57-233b-aa55-3b126d0c8c6a
 resourcetype: Document
 title: MITRES_18_001_guide10.pdf
 uid: c6b6d036-14f4-71c3-3daf-4238592c8514

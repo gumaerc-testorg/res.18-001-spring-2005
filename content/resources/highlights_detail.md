@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Textbook
 parent_type: SupplementalResourceSection
+parent_uid: 2842add0-8d1e-680b-3318-d7f7f69d7739
 resourcetype: Image
 title: highlights_detail.jpg
 uid: 692ac2c1-ffd1-23f0-7e6f-1bba6fa9ea14
