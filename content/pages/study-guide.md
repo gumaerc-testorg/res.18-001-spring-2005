@@ -1,11 +1,15 @@
 ---
 content_type: page
+description: 'Chapters: 1: Introduction to Calculus, 2: Derivatives, 3: Applications
+  of the Derivative, 4: The Chain Rule, 5: Integrals, 6: Exponentials and Logarithms,
+  7: Techniques of Integration, 8: Applications of the Integral, 9: Polar Coordinates
+  and Complex Numbers, 10: Infinite Series, 11: Vectors and Matrices, 12: Motion along
+  a Curve, 13: Partial Derivatives, 14: Multiple Integrals, and 15: Vector Calculus.'
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Study Guide
 uid: 4bf319e5-0f57-233b-aa55-3b126d0c8c6a
 ---
-
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
@@ -37,7 +41,7 @@ _1: Introduction to Calculus_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/mitres_18_001_guide1))
+({{% resource_link 459aa010-1207-e311-59ab-5d0e07d62644 "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +62,7 @@ _2: Derivatives_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mitres_18_001_guide2))
+({{% resource_link bafde944-ad74-1f64-5871-580576e40604 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +84,7 @@ _3: Applications of the Derivative_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.5MB]({{< baseurl >}}/resources/mitres_18_001_guide3))
+({{% resource_link 0d138a33-cd22-548e-e199-1cd1299ce774 "PDF - 1.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +102,7 @@ _4: The Chain Rule_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitres_18_001_guide4))
+({{% resource_link 148e0ee3-a610-6b7d-cdcd-462de505480f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +124,7 @@ _5: Integrals_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/mitres_18_001_guide5))
+({{% resource_link e03ae8ed-aa86-e351-a1c3-8fc5ed8d8acc "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +145,7 @@ _6: Exponentials and Logarithms_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.5MB]({{< baseurl >}}/resources/mitres_18_001_guide6))
+({{% resource_link 9f74c252-964c-9f7e-870c-51b613802fed "PDF - 1.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +164,7 @@ _7: Techniques of Integration_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mitres_18_001_guide7))
+({{% resource_link ae2c0045-d3c7-8928-e58a-658e3bd4de66 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +184,7 @@ _8: Applications of the Integral_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/mitres_18_001_guide8))
+({{% resource_link 866117d0-bb08-ff93-fcc4-3c9fde07b337 "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +202,7 @@ _9: Polar Coordinates and Complex Numbers_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitres_18_001_guide9))
+({{% resource_link fac4927a-74c6-cfb2-d02d-7c6ab1db73c9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -217,7 +221,7 @@ _10: Infinite Series_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/mitres_18_001_guide10))
+({{% resource_link c6b6d036-14f4-71c3-3daf-4238592c8514 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,7 +240,7 @@ _11: Vectors and Matrices_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitres_18_001_guide11))
+({{% resource_link 44075269-ffe5-65de-43d0-20803d8adbf9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -254,7 +258,7 @@ _12: Motion along a Curve_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitres_18_001_guide12))
+({{% resource_link d51f2b21-7328-0c86-21a8-0d57603b2e82 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -275,7 +279,7 @@ _13: Partial Derivatives_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/mitres_18_001_guide13))
+({{% resource_link c7850343-b4be-a2d5-9b70-44a496f574a7 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -293,7 +297,7 @@ _14: Multiple Integrals_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitres_18_001_guide14))
+({{% resource_link a420b378-9238-2bd8-ab2d-feb0e3140f0d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -313,7 +317,7 @@ _15: Vector Calculus_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/mitres_18_001_guide15))
+({{% resource_link 253750dc-e845-25f1-4c33-6d2998b0f0a4 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
