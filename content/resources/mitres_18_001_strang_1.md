@@ -5,6 +5,7 @@ file: /courses/res-18-001-calculus-online-textbook-spring-2005/b87e4abad5fd3a5b7
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: MITRES_18_001_strang_1.pdf
 uid: b87e4aba-d5fd-3a5b-76ea-06924608bf3f
 ---
 This resource contains information related to introduction to calculus.
-

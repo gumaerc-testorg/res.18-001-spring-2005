@@ -5,6 +5,7 @@ file: /courses/res-18-001-calculus-online-textbook-spring-2005/b6297a8171f9c6a10
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: MITRES_18_001_strang_5558.pdf
 uid: b6297a81-71f9-c6a1-0fff-8d1b0600ac46
 ---
 This resource contais information related to integrals.
-

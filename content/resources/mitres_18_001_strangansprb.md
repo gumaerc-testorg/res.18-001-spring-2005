@@ -6,6 +6,7 @@ file: /courses/res-18-001-calculus-online-textbook-spring-2005/5d3bcd4cbb6b3f25a
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
@@ -15,4 +16,3 @@ title: MITRES_18_001_strangansprb.pdf
 uid: 5d3bcd4c-bb6b-3f25-ac39-3b92a3685019
 ---
 This resource contains information related to answers to the odd numbered problems.
-

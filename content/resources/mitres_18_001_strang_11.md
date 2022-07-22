@@ -5,6 +5,7 @@ file: /courses/res-18-001-calculus-online-textbook-spring-2005/284138eb3497de983
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: MITRES_18_001_strang_11.pdf
 uid: 284138eb-3497-de98-3901-0db39ad8ef5a
 ---
 This resource contains information related to vectors and matrices.
-

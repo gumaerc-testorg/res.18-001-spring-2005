@@ -5,6 +5,7 @@ file: /courses/res-18-001-calculus-online-textbook-spring-2005/593f71ade474078c4
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: MITRES_18_001_strang_6.pdf
 uid: 593f71ad-e474-078c-4471-ea560dbd804d
 ---
 This resource contains information related to exponentials and logarithms.
-

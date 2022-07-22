@@ -6,6 +6,7 @@ file: /courses/res-18-001-calculus-online-textbook-spring-2005/c9e973aa1c92dea77
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
@@ -15,4 +16,3 @@ title: MITRES_18_001_strang121122.pdf
 uid: c9e973aa-1c92-dea7-78a8-ae3ca48a10ca
 ---
 This resource contains information on topics tangent vector and normal vector.
-

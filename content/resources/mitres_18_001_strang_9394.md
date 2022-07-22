@@ -6,6 +6,7 @@ file: /courses/res-18-001-calculus-online-textbook-spring-2005/d7f8383935f24726e
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
@@ -15,4 +16,3 @@ title: MITRES_18_001_strang_9394.pdf
 uid: d7f83839-35f2-4726-e348-445684103c2a
 ---
 This resource contains information related to polar coordinates and complex numbers.
-

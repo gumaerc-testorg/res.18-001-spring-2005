@@ -5,6 +5,7 @@ file: /courses/res-18-001-calculus-online-textbook-spring-2005/58e7c6cc70c3ab982
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: MITRES_18_001_strang_3.pdf
 uid: 58e7c6cc-70c3-ab98-2221-ee68e6d2d468
 ---
 This resource contains information related to applications of derivatives.
-

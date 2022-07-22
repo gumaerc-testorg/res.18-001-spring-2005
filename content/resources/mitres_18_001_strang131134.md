@@ -5,6 +5,7 @@ file: /courses/res-18-001-calculus-online-textbook-spring-2005/3b774e054e80d29ec
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: MITRES_18_001_strang131134.pdf
 uid: 3b774e05-4e80-d29e-c6c1-0efc2fea9e0a
 ---
 This resource contains information related to partial derivatives.
-

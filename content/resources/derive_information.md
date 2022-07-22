@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-18-001-calculus-online-textbook-spring-2005/ba1278f8d11c69c59ad4d72b31babb9d_DERIVE_Information.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Instructor's Manual
 parent_type: SupplementalResourceSection

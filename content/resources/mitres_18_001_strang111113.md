@@ -6,6 +6,7 @@ file: /courses/res-18-001-calculus-online-textbook-spring-2005/c77080ede0b991bda
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
@@ -15,4 +16,3 @@ title: MITRES_18_001_strang111113.pdf
 uid: c77080ed-e0b9-91bd-ab9f-480119eb0e90
 ---
 This resource contains information on topics vectors and dot products and planes and projections.
-

@@ -5,6 +5,7 @@ file: /courses/res-18-001-calculus-online-textbook-spring-2005/5b2ba163ea3de75db
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: MITRES_18_001_strang_2527.pdf
 uid: 5b2ba163-ea3d-e75d-bbf5-0bae52934c7f
 ---
 This resource contains information related to limits and continuous functions.
-

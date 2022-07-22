@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-18-001-calculus-online-textbook-spring-2005/b3fb71f2542f7d97f2c15dd900b011e2_CoverIntroduction.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Guide
 parent_type: SupplementalResourceSection

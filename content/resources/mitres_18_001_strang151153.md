@@ -6,6 +6,7 @@ file: /courses/res-18-001-calculus-online-textbook-spring-2005/db000f5b38d3f4b42
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: SupplementalResourceSection
@@ -15,4 +16,3 @@ title: MITRES_18_001_strang151153.pdf
 uid: db000f5b-38d3-f4b4-2d76-3a984a741d8e
 ---
 This resource contains information related to vector fields and line integrals.
-
