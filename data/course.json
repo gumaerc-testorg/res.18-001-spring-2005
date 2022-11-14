@@ -26,7 +26,7 @@
     "website": "res-18-001-calculus-online-textbook-spring-2005"
   },
   "course_title": "Calculus Online Textbook",
-  "course_description": "Published in 1991 by [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), the book is a useful resource for educators and self-learners alike. It is well organized, covers single variable and multivariable calculus in depth, and is rich with applications.\u00a0\n\nIn addition to the [Textbook](/resources/res-18-001-calculus-online-textbook-spring-2005/textbook), there is also an online [Instructor's Manual](/resources/res-18-001-calculus-online-textbook-spring-2005/instructor-s-manual) and a student [Study Guide](/resources/res-18-001-calculus-online-textbook-spring-2005/study-guide). Prof. Strang has also developed a related series of videos, [Highlights of Calculus](/resources/res-18-005-highlights-of-calculus-spring-2010/index.htm), on the basic ideas of calculus.\n\nThe [2010 second edition](http://www.wellesleycambridge.com/) of the Calculus textbook includes a new chapter on \"Highlights of Calculus\" that connects to the video series of the same name.\u00a0 The new chapter has summaries and practice questions for all of the videos.\u00a0 It also introduces The Exponential Function (e^x) as presented in Prof. Strang's video on this topic.\n",
+  "course_description": "Published in 1991 by [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), the book is a useful resource for educators and self-learners alike. It is well organized, covers single variable and multivariable calculus in depth, and is rich with applications.\u00a0\n\nIn addition to the [Textbook](/courses/res-18-001-calculus-online-textbook-spring-2005/pages/textbook/), there is also an online [Instructor's Manual](/courses/res-18-001-calculus-online-textbook-spring-2005/pages/instructor-s-manual/) and a student [Study Guide](/courses/res-18-001-calculus-online-textbook-spring-2005/pages/study-guide/). Prof. Strang has also developed a related series of videos, [Highlights of Calculus](/courses/res-18-005-highlights-of-calculus-spring-2010/), on the basic ideas of calculus.\n\nThe [2010 second edition](http://www.wellesleycambridge.com/) of the Calculus textbook includes a new chapter on \"Highlights of Calculus\" that connects to the video series of the same name.\u00a0 The new chapter has summaries and practice questions for all of the videos.\u00a0 It also introduces The Exponential Function (e^x) as presented in Prof. Strang's video on this topic.",
   "department_numbers": [
     "RES"
   ],
@@ -39,6 +39,7 @@
   "learning_resource_types": [
     "Online Textbook"
   ],
-  "site_uid": "d2b46875-27e4-4ddd-b76f-51c0b5c9257b",
+  "site_uid": "e3c081f3-8363-4814-b6c3-9c210a6f866c",
+  "short_id": "res.18-001-spring-2005",
   "title": "Course Metadata"
 }
