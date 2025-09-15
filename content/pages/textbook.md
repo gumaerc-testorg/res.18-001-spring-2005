@@ -8,7 +8,7 @@ description: 'Chapters: 1: Introduction to Calculus, 2: Derivatives, 3: Applicat
   16: Mathematics after Calculus.'
 draft: false
 learning_resource_types:
-- Online Textbooks
+- Open Textbooks
 ocw_type: SupplementalResourceSection
 title: Textbook
 uid: 2842add0-8d1e-680b-3318-d7f7f69d7739
