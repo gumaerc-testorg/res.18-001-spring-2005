@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: New file Uplaod
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/d59a45c467655a76375c3184fe4c2c4c_MITRES_18_001_strang_5154.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/d59a45c467655a76375c3184fe4c2c4c_MITRES_18_001_strang_5154.pdf
+file_size: 1154255
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook

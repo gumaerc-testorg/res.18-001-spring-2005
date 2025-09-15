@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This resource contains information related to polar coordinates and
   complex numbers. '
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/4ed5c96194ea96f842e8e00afcc6afd5_MITRES_18_001_manual9.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/4ed5c96194ea96f842e8e00afcc6afd5_MITRES_18_001_manual9.pdf
+file_size: 545769
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: This resource contains information related to tables equations.
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/d2169e2bb14af9ad8ccb1f0fabc04d5b_MITRES_18_001_strang_tableseq.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/d2169e2bb14af9ad8ccb1f0fabc04d5b_MITRES_18_001_strang_tableseq.pdf
+file_size: 194978
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook

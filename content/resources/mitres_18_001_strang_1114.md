@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: This resource contains information related to introduction to calculus.
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/a803bcacf90be2bd0ddb0fac404b06eb_MITRES_18_001_strang_1114.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/a803bcacf90be2bd0ddb0fac404b06eb_MITRES_18_001_strang_1114.pdf
+file_size: 1688630
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook

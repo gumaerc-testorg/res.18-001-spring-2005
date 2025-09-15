@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This resource contains information related to applications of the derivative. '
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/67920c1375ead527542d8e8337b25fe6_MITRES_18_001_manual3.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/67920c1375ead527542d8e8337b25fe6_MITRES_18_001_manual3.pdf
+file_size: 1434831
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

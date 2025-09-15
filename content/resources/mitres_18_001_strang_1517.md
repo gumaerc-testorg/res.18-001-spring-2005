@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: This resource contains information related to vector calculus.
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/beefa50801f8b30ab573e2575277abf8_MITRES_18_001_strang_1517.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/beefa50801f8b30ab573e2575277abf8_MITRES_18_001_strang_1517.pdf
+file_size: 1454628
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook

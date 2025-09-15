@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: This resource contains information related to mathematics after calculus.
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/1d361df5d5913da2b61f0e0cd509a357_MITRES_18_001_strang_16.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/1d361df5d5913da2b61f0e0cd509a357_MITRES_18_001_strang_16.pdf
+file_size: 959429
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook

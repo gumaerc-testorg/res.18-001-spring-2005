@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information related to selected errata.
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/3b0b38a9b4a6d0a8e111e999d4fc52e5_MITRES_18_001_SelctedErata.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/3b0b38a9b4a6d0a8e111e999d4fc52e5_MITRES_18_001_SelctedErata.pdf
+file_size: 62510
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

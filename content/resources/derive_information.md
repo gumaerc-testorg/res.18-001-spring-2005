@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/ba1278f8d11c69c59ad4d72b31babb9d_DERIVE_Information.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/ba1278f8d11c69c59ad4d72b31babb9d_DERIVE_Information.pdf
+file_size: 50036
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

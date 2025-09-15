@@ -2,10 +2,11 @@
 content_type: resource
 description: This resource contains information on topics tangent vector and normal
   vector.
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/c9e973aa1c92dea778a8ae3ca48a10ca_MITRES_18_001_strang121122.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/c9e973aa1c92dea778a8ae3ca48a10ca_MITRES_18_001_strang121122.pdf
+file_size: 716869
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information related to multiple integrals.
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/f65d347ae0650e7cededfe9a83e21ef3_MITRES_18_001_manual14.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/f65d347ae0650e7cededfe9a83e21ef3_MITRES_18_001_manual14.pdf
+file_size: 825983
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

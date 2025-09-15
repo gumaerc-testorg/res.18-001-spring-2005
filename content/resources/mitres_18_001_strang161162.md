@@ -2,10 +2,11 @@
 content_type: resource
 description: This resource contains information related to linear algebra and differential
   equations.
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/b5e91b5401acd6ff365413501b840e9a_MITRES_18_001_strang161162.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/b5e91b5401acd6ff365413501b840e9a_MITRES_18_001_strang161162.pdf
+file_size: 797269
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook

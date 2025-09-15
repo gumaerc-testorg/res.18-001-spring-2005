@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information related to notes.
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/00565011343cff296f38f7f319f5e37d_MITRES_18_001_NotesText.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/00565011343cff296f38f7f319f5e37d_MITRES_18_001_NotesText.pdf
+file_size: 893518
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

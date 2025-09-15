@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information related to applications of the integral.
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/866117d0bb08ff93fcc43c9fde07b337_MITRES_18_001_guide8.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/866117d0bb08ff93fcc43c9fde07b337_MITRES_18_001_guide8.pdf
+file_size: 1295161
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

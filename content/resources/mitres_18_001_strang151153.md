@@ -2,10 +2,11 @@
 content_type: resource
 description: This resource contains information related to vector fields and line
   integrals.
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/db000f5b38d3f4b42d763a984a741d8e_MITRES_18_001_strang151153.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/db000f5b38d3f4b42d763a984a741d8e_MITRES_18_001_strang151153.pdf
+file_size: 1606512
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook

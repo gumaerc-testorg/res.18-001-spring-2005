@@ -2,10 +2,11 @@
 content_type: resource
 description: This resource contains information on topics vectors and dot products
   and planes and projections.
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/c77080ede0b991bdab9f480119eb0e90_MITRES_18_001_strang111113.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/c77080ede0b991bdab9f480119eb0e90_MITRES_18_001_strang111113.pdf
+file_size: 2334232
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook

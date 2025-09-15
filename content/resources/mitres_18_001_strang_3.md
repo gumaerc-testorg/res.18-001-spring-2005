@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: This resource contains information related to applications of derivatives.
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/58e7c6cc70c3ab982221ee68e6d2d468_MITRES_18_001_strang_3.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/58e7c6cc70c3ab982221ee68e6d2d468_MITRES_18_001_strang_3.pdf
+file_size: 3428791
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook

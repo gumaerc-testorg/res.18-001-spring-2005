@@ -2,10 +2,11 @@
 content_type: resource
 description: This resource contains information related to plane motion and tangent
   vector.
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/5d4963a4baa2020f26eacf55ab026d35_MITRES_18_001_strang123124.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/5d4963a4baa2020f26eacf55ab026d35_MITRES_18_001_strang123124.pdf
+file_size: 608908
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This resource contains information related to exponentials and logarithms. '
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/9f74c252964c9f7e870c51b613802fed_MITRES_18_001_guide6.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/9f74c252964c9f7e870c51b613802fed_MITRES_18_001_guide6.pdf
+file_size: 1537533
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: This resource contains information related to integrals.
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/8befcfcdaecae64f77cdd83ef8bbfdab_MITRES_18_001_strang_5.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/8befcfcdaecae64f77cdd83ef8bbfdab_MITRES_18_001_strang_5.pdf
+file_size: 3435592
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook

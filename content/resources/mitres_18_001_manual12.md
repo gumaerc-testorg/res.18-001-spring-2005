@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This resource contains information related to motion along a curve. '
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/555af9d15fba916ecda4ed6db1910912_MITRES_18_001_manual12.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/555af9d15fba916ecda4ed6db1910912_MITRES_18_001_manual12.pdf
+file_size: 739448
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

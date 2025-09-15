@@ -2,10 +2,11 @@
 content_type: resource
 description: This resource contains information related to triple integrals and cylindrical
   techniques.
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/cfd4f9c3e6c048a796e654d027b3e1b5_MITRES_18_001_strang143144.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/cfd4f9c3e6c048a796e654d027b3e1b5_MITRES_18_001_strang143144.pdf
+file_size: 944292
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook

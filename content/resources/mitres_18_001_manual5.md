@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: "This resource contains information related to integrals.\r\n"
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/e3406a5d7e1faaf6460db2a6d529aeb2_MITRES_18_001_manual5.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/e3406a5d7e1faaf6460db2a6d529aeb2_MITRES_18_001_manual5.pdf
+file_size: 905082
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

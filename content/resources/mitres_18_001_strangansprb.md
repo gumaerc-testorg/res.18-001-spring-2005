@@ -2,10 +2,11 @@
 content_type: resource
 description: This resource contains information related to answers to the odd numbered
   problems.
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/5d3bcd4cbb6b3f25ac393b92a3685019_MITRES_18_001_strangansprb.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/5d3bcd4cbb6b3f25ac393b92a3685019_MITRES_18_001_strangansprb.pdf
+file_size: 2524273
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook

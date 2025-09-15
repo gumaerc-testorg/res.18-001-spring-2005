@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information related to partial derivatives.
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/f4e00792551aeb0df35d9ad5dd9dbbb8_MITRES_18_001_manual13.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/f4e00792551aeb0df35d9ad5dd9dbbb8_MITRES_18_001_manual13.pdf
+file_size: 1334634
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

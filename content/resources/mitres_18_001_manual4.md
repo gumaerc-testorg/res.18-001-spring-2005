@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: "This resource contains information related to the chain rule. \r\n"
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/66fd259b109bd7cb35fa5c5ae0d83ee9_MITRES_18_001_manual4.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/66fd259b109bd7cb35fa5c5ae0d83ee9_MITRES_18_001_manual4.pdf
+file_size: 520482
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

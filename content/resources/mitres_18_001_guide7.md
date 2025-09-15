@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This resource contains information related to techniques of integration. '
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/ae2c0045d3c78928e58a658e3bd4de66_MITRES_18_001_guide7.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/ae2c0045d3c78928e58a658e3bd4de66_MITRES_18_001_guide7.pdf
+file_size: 1128746
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

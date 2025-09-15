@@ -2,10 +2,11 @@
 content_type: resource
 description: This resource contains information on topics exponential e^x, growth
   and decay in science and economics, and logarithms.
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/df98a39442e57fbd0528ee00308f1279_MITRES_18_001_strang_6164.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/df98a39442e57fbd0528ee00308f1279_MITRES_18_001_strang_6164.pdf
+file_size: 2149872
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook

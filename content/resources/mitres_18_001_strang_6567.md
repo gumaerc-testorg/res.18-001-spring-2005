@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: This resource contains information related to exponentials and logarithms.
-file: /courses/res-18-001-calculus-online-textbook-spring-2005/9d604ceddba26cd6d16c591319b9dedf_MITRES_18_001_strang_6567.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-online-textbook-spring-2005/9d604ceddba26cd6d16c591319b9dedf_MITRES_18_001_strang_6567.pdf
+file_size: 1253525
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
