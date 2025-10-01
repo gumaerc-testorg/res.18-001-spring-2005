@@ -13,7 +13,7 @@ ocw_type: SupplementalResourceSection
 title: Textbook
 uid: 2842add0-8d1e-680b-3318-d7f7f69d7739
 ---
-Published in 1991 by [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), the book is a useful resource for educators and self-learners alike. It is well organized, covers single variable and multivariable calculus in depth, and is rich with applications. There is also an online {{% resource_link "17e76762-f3ba-c840-0d43-13aeb75d9620" "Instructor's Manual" %}} and a student {{% resource_link 4bf319e5-0f57-233b-aa55-3b126d0c8c6a "Study Guide" %}}.
+Published in 1991 by {{% resource_link "0f7b56e7-c73a-4102-b9eb-28d6ae4c4f57" "Wellesley-Cambridge Press" %}}, the book is a useful resource for educators and self-learners alike. It is well organized, covers single variable and multivariable calculus in depth, and is rich with applications. There is also an online {{% resource_link "17e76762-f3ba-c840-0d43-13aeb75d9620" "Instructor's Manual" %}} and a student {{% resource_link 4bf319e5-0f57-233b-aa55-3b126d0c8c6a "Study Guide" %}}.
 
 The complete textbook is also available as a single file. ([PDF - 38.5MB](/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf))
 
